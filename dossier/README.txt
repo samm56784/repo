@@ -32,3 +32,4 @@ INSTRUCTIONS À SUIVRE
 
 15. Votre vidéo commencera et vous pourrez contrôler votre vidéo à partir des boutons de l'interface graphique (Play,Pause,Avance rapide(1,25x),Retour au debut et Quit)
 asdasdasdadaasdadasdasdsdasdasd
+sdfsfsdfsdfsfsfsfsdfsdfsdfsdf
